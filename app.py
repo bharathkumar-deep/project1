@@ -1,5 +1,5 @@
-a = 8
-if a%4 ==0:
+num = 8
+if num%4 ==0:
     print("even number")
 else:
     print("odd number")
